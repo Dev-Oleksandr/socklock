@@ -1,0 +1,20 @@
+{
+  "title": "Laundry day rescue (UGC, 20 s)",
+  "scenes": [
+    {"visual": "Woman pulls a tangled pile of single socks out of the dryer, looks at the camera",
+     "line": "Every laundry day I lose at least one sock.",
+     "on_screen_text": "WHERE DO THEY EVEN GO"},
+    {"visual": "Close-up: two SockLock socks snap together at the cuff",
+     "line": "So I tried socks with tiny magnets in the cuff.",
+     "on_screen_text": "MAGNETS IN THE CUFF"},
+    {"visual": "She tosses the snapped pair into the washer, then pulls it out still together",
+     "line": "They go into the wash as a pair and come out as a pair.",
+     "on_screen_text": "STILL A PAIR"},
+    {"visual": "Neat sock drawer, pairs lined up",
+     "line": "My sock drawer has never looked this good.",
+     "on_screen_text": "NO MORE ODD SOCKS"},
+    {"visual": "Product box with 5 pairs, price card",
+     "line": "Five pairs for twenty-nine dollars, then a fresh set every quarter. Tap Shop now.",
+     "on_screen_text": "5 PAIRS FOR $29"}
+  ]
+}

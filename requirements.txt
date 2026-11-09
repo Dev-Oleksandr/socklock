@@ -1,0 +1,3 @@
+# anthropic: only needed for --backend api (API key). The default cli backend and --mock work without it.
+anthropic
+pytest
